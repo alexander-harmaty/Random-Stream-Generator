@@ -12,7 +12,7 @@ This project was the first of a three part series of assignments for my C++ Data
 
 The goal of this assignment was to generate a set of random letters and numbers to act as instructions for future parts.
 
-This project was made using C++ in Visual Studio 2022.
+This project was made using C++ in Visual Studio 2019.
 
 ## Features
 
