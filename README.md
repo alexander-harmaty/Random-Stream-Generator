@@ -18,6 +18,9 @@ This project was made using C++ in Visual Studio 2022.
 
 This C++ code generates a random stream of characters and numbers and writes it to a file. 
 
+It contains two different sequences of random numbers.
+1. one for the letters, decided between 0 and 5 
+2. one for the number to follow "A" between INT_MIN and INT_MAX.
 
 ## How It Works
 
